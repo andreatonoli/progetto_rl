@@ -1,4 +1,4 @@
-# progetto_reti_logiche
+# Prova Finale Reti Logiche 2023-2024
 progetto relativo al corso di Reti Logiche 
 
 Docente: Gianluca Palermo
