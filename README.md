@@ -10,6 +10,6 @@ La valutazione del progetto è stata determinata considerando due aspetti princi
 
 in particolare:
 
-CODICE: è stato verificato che esso rispettasse i requisiti di output e soddisfacesse i vincoli di memoria e tempo di esecuzione specificati.
+- [CODICE](https://github.com/andreatonoli/): è stato verificato che esso rispettasse i requisiti di output e soddisfacesse i vincoli di memoria e tempo di esecuzione specificati.
 
-DOCUMENTAZIONE: è stata valutata in termini di ordine, chiarezza e accuratezza.
+- [DOCUMENTAZIONE](https://github.com/andreatonoli/): è stata valutata in termini di ordine, chiarezza e accuratezza.
