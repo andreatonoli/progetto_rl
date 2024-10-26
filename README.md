@@ -10,6 +10,5 @@ La valutazione del progetto è stata determinata considerando due aspetti princi
 
 in particolare:
 
-- [CODICE](https://github.com/andreatonoli/): è stato verificato che esso rispettasse i requisiti di output e soddisfacesse i vincoli di memoria e tempo di esecuzione specificati.
-
-- [DOCUMENTAZIONE](https://github.com/andreatonoli/): è stata valutata in termini di ordine, chiarezza e accuratezza.
+- [Codice](https://github.com/andreatonoli/progetto_rl/blob/main/code.vhd): è stato verificato che esso rispettasse i requisiti di output e soddisfacesse i vincoli di memoria e tempo di esecuzione specificati.
+- [Documentazione](https://github.com/andreatonoli/progetto_rl/blob/main/documentation.pdf): è stata valutata in termini di ordine, chiarezza e accuratezza.
